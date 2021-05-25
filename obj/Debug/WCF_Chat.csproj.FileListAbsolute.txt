@@ -1,0 +1,7 @@
+D:\My labs\C#\WCF_Chat\bin\Debug\WCF_Chat.dll.config
+D:\My labs\C#\WCF_Chat\bin\Debug\WCF_Chat.dll
+D:\My labs\C#\WCF_Chat\bin\Debug\WCF_Chat.pdb
+D:\My labs\C#\WCF_Chat\obj\Debug\WCF_Chat.csprojAssemblyReference.cache
+D:\My labs\C#\WCF_Chat\obj\Debug\WCF_Chat.csproj.CoreCompileInputs.cache
+D:\My labs\C#\WCF_Chat\obj\Debug\WCF_Chat.dll
+D:\My labs\C#\WCF_Chat\obj\Debug\WCF_Chat.pdb
