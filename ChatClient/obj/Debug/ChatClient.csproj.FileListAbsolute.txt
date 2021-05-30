@@ -1,0 +1,34 @@
+D:\My labs\C#\WCF_Chat\ChatClient\bin\Debug\ChatClient.exe.config
+D:\My labs\C#\WCF_Chat\ChatClient\bin\Debug\ChatClient.exe
+D:\My labs\C#\WCF_Chat\ChatClient\bin\Debug\ChatClient.pdb
+D:\My labs\C#\WCF_Chat\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+D:\My labs\C#\WCF_Chat\ChatClient\obj\Debug\MainWindow.g.cs
+D:\My labs\C#\WCF_Chat\ChatClient\obj\Debug\App.g.cs
+D:\My labs\C#\WCF_Chat\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+D:\My labs\C#\WCF_Chat\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+D:\My labs\C#\WCF_Chat\ChatClient\obj\Debug\MainWindow.baml
+D:\My labs\C#\WCF_Chat\ChatClient\obj\Debug\ChatClient.g.resources
+D:\My labs\C#\WCF_Chat\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\My labs\C#\WCF_Chat\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+D:\My labs\C#\WCF_Chat\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+D:\My labs\C#\WCF_Chat\ChatClient\obj\Debug\ChatClient.exe
+D:\My labs\C#\WCF_Chat\ChatClient\obj\Debug\ChatClient.pdb
+D:\My labs\C#\WCF_Chat\ChatClient\bin\Debug\Tulpep.NotificationWindow.dll
+D:\My labs\C#\WCF_Chat\ChatClient\obj\Debug\ChatClient.csproj.CopyComplete
+C:\Users\Max\Desktop\CHATWCF\WCF_Chat\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\Max\Desktop\CHATWCF\WCF_Chat\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\Max\Desktop\CHATWCF\WCF_Chat\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\Max\Desktop\CHATWCF\WCF_Chat\ChatClient\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Max\Desktop\CHATWCF\WCF_Chat\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\CHATWCF\WCF_Chat\ChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\Max\Desktop\CHATWCF\WCF_Chat\ChatClient\obj\Debug\App.g.cs
+C:\Users\Max\Desktop\CHATWCF\WCF_Chat\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Users\Max\Desktop\CHATWCF\WCF_Chat\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+C:\Users\Max\Desktop\CHATWCF\WCF_Chat\ChatClient\obj\Debug\MainWindow.baml
+C:\Users\Max\Desktop\CHATWCF\WCF_Chat\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Users\Max\Desktop\CHATWCF\WCF_Chat\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\Max\Desktop\CHATWCF\WCF_Chat\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\Max\Desktop\CHATWCF\WCF_Chat\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\CHATWCF\WCF_Chat\ChatClient\obj\Debug\ChatClient.csproj.CopyComplete
+C:\Users\Max\Desktop\CHATWCF\WCF_Chat\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\Max\Desktop\CHATWCF\WCF_Chat\ChatClient\obj\Debug\ChatClient.pdb
